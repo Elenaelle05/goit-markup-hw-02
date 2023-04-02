@@ -1,5 +1,5 @@
 :root {
- --iris: #4d5ae5; 
+--iris: #4d5ae5; 
 --ocean: #404bbf; 
 --navyblue: #2e2f42; 
 --green: #31d0aa; 
@@ -13,9 +13,8 @@
 }
 body {
     font-family:"Roboto", sans-serif;
-    
-    color: var(#434455);
-    background-color:var(#FFFFFF);
+    color:var(--slate);
+    background-color:var(--white);
     width: 1128px;
     top: 2280px;
   
