@@ -13,8 +13,8 @@
 }
 body {
     font-family:"Roboto", sans-serif;
-    color:var(--slate);
-    background-color:var(--white);
+    color:#434455;
+    background-color:var(#FFFFFF);
     width: 1128px;
     top: 2280px;
   
