@@ -14,7 +14,8 @@
 body {
     font-family:"Roboto", sans-serif;
     
-    color: var(--cloud);
+    color: var(#434455);
+    background-color:var(#FFFFFF);
     width: 1128px;
     top: 2280px;
   
@@ -26,10 +27,11 @@ body {
 font-family: "Raleway",sans-serif;
 font-size: 18px;
 font-weight: 800;
-line-height: 21px;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-align: left;
 color: var(--iris);
+text-transform: uppercase;
 }
 
 .logo-blue{
