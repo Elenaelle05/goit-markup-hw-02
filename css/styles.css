@@ -166,8 +166,9 @@ body {
 
 }
 
-/* .section-activites {
-} */
+.section-activites { 
+    background-color: #F4F4FD;
+} 
 .activites-header {
     width: 323px;
     height: 40px;
@@ -188,6 +189,7 @@ body {
     height: 300px;
     border: 1px solid #E7E9FC;
     flex: none;
+    background-color: #FFFFFF;
 }
 
 .selection-team {
