@@ -14,7 +14,7 @@
 body {
     font-family:"Roboto", sans-serif;
     color:#434455;
-    background-color:var(#FFFFFF);
+    background-color:var(--white);
     width: 1128px;
     top: 2280px;
 }
@@ -52,7 +52,7 @@ color: var(--navyblue);
 }
 .header-link:hover,
 .header-link:focus{
-    color: var(--iris);
+    color: var(--ocean);
 }
 
 .link {
