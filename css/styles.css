@@ -52,7 +52,7 @@ color: var(--navyblue);
 }
 .header-link:hover,
 .header-link:focus{
-    color: var(--ocean);
+    color: #404bbf ;
 }
 
 .link {
@@ -70,7 +70,7 @@ color: var(--slate)
 }
 .header-info-link:hover,
 .header-info-link:focus{
-color: var(--ocean);
+color: #404bbf ;
 }
 
 /* Page 1 MAIN */
@@ -87,7 +87,7 @@ background-color:var(--navyblue);
 font-family: 'Roboto',sans-serif;
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07;
+line-height:1.07px;
 text-align: center;
 letter-spacing: 0.02em;
 color: var(--white);
@@ -117,7 +117,7 @@ cursor: pointer;
 }
 .hero-button:hover,
 .hero-button:focus{
-background-color:var(--ocean);
+background-color:#404BBF ;
 }
 
 .section-goals {
@@ -128,6 +128,7 @@ top: 792px;
 
 }
 .goals-hero {
+    
 }
 .goals-list {
     list-style: none;
