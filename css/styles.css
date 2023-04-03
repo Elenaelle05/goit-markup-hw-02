@@ -16,8 +16,6 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: var(--white);
-    width: 1128px;
-    top: 2280px;
 }
 
 
@@ -71,7 +69,7 @@ body {
 .header-info-link {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    line-height: 24px;
+    line-height:1.5;
     letter-spacing: 0.02em;
     color: var(--slate)
 }
@@ -85,8 +83,6 @@ body {
 .main {}
 
 .section-hero {
-    width: 1440px;
-    height: 600px;
     background-color: var(--navyblue);
 }
 
@@ -98,10 +94,6 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white);
-    width: 496px;
-    height: 120px;
-    left: 472px;
-    top: 260px;
 
 }
 
@@ -111,9 +103,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    gap: 10px;
-    width: 169px;
-    height: 56px;
     background: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
@@ -129,10 +118,6 @@ body {
 }
 
 .section-goals {
-    width: 1128px;
-    height: 104px;
-    left: 156px;
-    top: 792px;
 
 }
 
@@ -158,8 +143,6 @@ body {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    width: 264px;
-    height: 72px;
     color: var(--slate);
 
 }
@@ -168,8 +151,6 @@ body {
     background-color: #F4F4FD;
 } 
 .activites-header {
-    width: 323px;
-    height: 40px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -183,16 +164,12 @@ body {
 /* .activites-list {
 } */
 .activites-item {
-    width: 360px;
-    height: 300px;
     border: 1px solid #E7E9FC;
     flex: none;
     background-color: #FFFFFF;
 }
 
 .section-team {
-    width: 1440px;
-    height: 732px;
     left: 0px;
     top: 1548px;
     background-color: #F4F4FD;
@@ -200,8 +177,6 @@ body {
 }
 
 .team-header {
-    width: 162px;
-    height: 40px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -242,8 +217,6 @@ body {
 
 /* FOOTER */
 .footer {
-    width: 1440px;
-    height: 312px;
     left: 0px;
     top: 2280px;
     background: var(--navyblue)
@@ -266,8 +239,6 @@ body {
 }
 
 .footer-text {
-    width: 264px;
-    height: 72px;
     left: 156px;
     top: 2420px;
     font-family: 'Roboto', sans-serif;
@@ -281,15 +252,7 @@ body {
 .main-portfolio {}
 
 .portfolio-container {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 0px;
-    gap: 24px;
-    width: 586px;
-    height: 48px;
-    left: 427px;
-    top: 168px;
+
 }
 
 .list {
@@ -305,7 +268,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     padding: 12px 24px;
-    width: 69px;
     height: 48px;
     background: var(--cloud);
     color: var(--iris);
@@ -345,5 +307,5 @@ body {
     color: var(--slate);
 }
 .portfolio-icon {
-    
+
 }
