@@ -87,8 +87,6 @@ body {
 .section-hero {
     width: 1440px;
     height: 600px;
-    left: 0px;
-    top: 72px;
     background-color: var(--navyblue);
 }
 
@@ -96,7 +94,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07px;
+    line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white);
@@ -192,12 +190,12 @@ body {
     background-color: #FFFFFF;
 }
 
-.selection-team {
+.section-team {
     width: 1440px;
     height: 732px;
     left: 0px;
     top: 1548px;
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 
 }
 
@@ -218,7 +216,9 @@ body {
     list-style: none;
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-member {
     font-family: 'Roboto', sans-serif;
