@@ -237,13 +237,13 @@ letter-spacing: 0.03em;
 text-align: left;
 color: var(--iris);
 text-transform: uppercase;
-text-decoration: none
+text-decoration: none;
 }
 .footer-logo-blue{
     color: #f4f4fd;
 }
 .footer-text {
-    width: 264px;
+width: 264px;
 height: 72px;
 left: 156px;
 top: 2420px;
