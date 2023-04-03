@@ -153,24 +153,22 @@ top: 792px;
     color:var(--slate);
     
 }
-.section-activites {
-}
+/* .section-activites {
+} */
 .activites-header {
 width: 323px;
 height: 40px;
-left: 559px;
-top: 1016px;
 font-family: 'Roboto',sans-serif;
 font-weight: 700;
 font-size: 36px;
-line-height: 40px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--navyblue);
 }
-.activites-list {
-}
+/* .activites-list {
+} */
 .activites-item {
 width: 360px;
 height: 300px;
@@ -182,18 +180,16 @@ width: 1440px;
 height: 732px;
 left: 0px;
 top: 1548px;
-background-color: var(--cloud);
+background-color: #FFFFFF;
 
 }
 .team-header {
 width: 162px;
 height: 40px;
-left: 639px;
-top: 1668px;
 font-family: 'Roboto',sans-serif;
 font-weight: 700;
 font-size: 36px;
-line-height: 40px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -236,13 +232,15 @@ color: var(--slate)
 font-family: "Raleway",sans-serif;
 font-size: 18px;
 font-weight: 800;
-line-height: 21px;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-align: left;
 color: var(--iris);
+text-transform: uppercase;
+text-decoration: none
 }
 .footer-logo-blue{
-    color: var(--white);
+    color: #f4f4fd;
 }
 .footer-text {
     width: 264px;
